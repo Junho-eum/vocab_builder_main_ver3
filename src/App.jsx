@@ -56,8 +56,7 @@ function App() {
     {
       word: "(~에 화가 나서) 발끈하다",
       synonym: "bristle",
-      sentence:
-        "As we discussed the issue, he ____ at my suggestion that he had been unfair",
+      hint: "As we discussed the issue, he ____ at my suggestion that he had been unfair",
     },
     {
       word: "돈키호테식의/비현실적인",
@@ -82,17 +81,17 @@ function App() {
     {
       word: "무모한",
       synonym: "foolhardy",
-      sentence: "It was ____ to go hiking in the mountains during the storm",
+      hint: "It was ____ to go hiking in the mountains during the storm",
     },
     {
       word: "호통치다, 욕설하다; 혹평하다",
       synonym: "vituperate",
-      sentence: "The angry customer ____ the manager for the poor service",
+      hint: "The angry customer ____ the manager for the poor service",
     },
     {
       word: "두 다리를 묶다",
       synonym: "hobble",
-      sentence: "Bad weather ____ the rescue efforts",
+      hint: "Bad weather ____ the rescue efforts",
     },
     {
       word: "(특히 불길한) 예감 ",
@@ -107,7 +106,7 @@ function App() {
     {
       word: "입찰하다.",
       synonym: "tender",
-      sentence: "The company ____ for the contract",
+      hint: "The company ____ for the contract",
     },
     {
       word: "상실감에 빠진",
@@ -117,7 +116,7 @@ function App() {
     {
       word: " 자기를 내세우지 않는",
       synonym: "self-effacing",
-      sentence: "The most admirable people are often the most ____",
+      hint: "The most admirable people are often the most ____",
     },
     {
       word: "(미술·문학·음악 등을 모르는) 교양 없는 사람",
@@ -152,7 +151,7 @@ function App() {
     {
       word: "곤혹, 당혹, 곤경",
       synonym: "quandary",
-      sentence: "The company was in a ____ after the CEO resigned",
+      hint: "The company was in a ____ after the CEO resigned",
     },
     {
       word: "미숙한, 풋내기인",
@@ -217,7 +216,7 @@ function App() {
     {
       word: " 미친 듯이 날뛰어",
       synonym: "amok",
-      sentence: "He ran ____ through the streets",
+      hint: "He ran ____ through the streets",
     },
     {
       word: "(은근히) 헐뜯는",
@@ -237,7 +236,7 @@ function App() {
     {
       word: "선거구를 자기 당에 유리하게 변경하다",
       synonym: "gerrymander",
-      sentence: "The politician ____ the district to ensure his reelection",
+      hint: "The politician ____ the district to ensure his reelection",
     },
     {
       word: "(재산·세력 등을) 과시하는",
@@ -257,7 +256,7 @@ function App() {
     {
       word: "(흐름을) 막다[저지하다]",
       synonym: "stem",
-      sentence: "The police tried to ____ the flow of drugs into the country",
+      hint: "The police tried to ____ the flow of drugs into the country",
     },
     {
       word: "변칙의, 이례적인",
